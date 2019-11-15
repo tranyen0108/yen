@@ -1,0 +1,96 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+.header{
+	width: 70%;
+	height: 13rem;
+
+	margin: 0 auto;
+}
+.lineheader{
+	width: 100%;
+	height: 0.6rem;
+	background: gray;
+	margin: 0 auto;
+}
+.logoheader{
+	width: 30%;
+	height: 6rem;
+
+	margin-top: 5.5%;
+}
+.rounded-circle{
+	float: left !important;
+	width: 5rem;
+	height: 5rem;
+	background: pink;
+}
+.logoheader p{
+	margin-top: 0.7rem;
+	margin-bottom: -1rem;
+	float: right;
+	opacity: 0.7;
+}
+.logoheader h1{
+	margin-bottom: -0.5rem;
+	float: right;
+	font-size: 3rem;
+
+}
+.menu{
+	width: 83.2%;
+	height: 3.1rem;
+	background: yellow;
+	margin: 0 auto;
+}
+.nav-item{
+
+	margin-left: -1rem;
+	margin-top: -0.5rem;
+	margin-bottom: -0.5rem;
+}
+.nav-link {
+
+	width:11.9rem !important;
+	height: 50px;
+}
+.nav-link:hover {
+	background: green;
+}
+.carousel-indicators .rounded-circle{
+	width: 1rem;height: 1rem;
+
+}
+.carousel-caption h1,h4{
+	padding: 0;
+	padding-top: -2rem;
+	text-align: left;
+}
+.carousel-caption{
+	top:7rem;
+	margin-left: 45%;
+}
+.ab.container-fluid{
+	background-image: url(headerbg.PNG);
+}
+.bn.container-fluid{
+	z-index: 1;
+}
+.mn.container{
+	z-index: 2;
+}
+.linebody{
+	width: 100%;
+	height: 1.5rem;
+	background: gray;
+	margin: 0 auto;
+}
+.card-img.rounded-circle{
+	width: 9rem;
+	height: 9rem;
+	background-image: pink;
+
+}

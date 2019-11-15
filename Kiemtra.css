@@ -1,0 +1,103 @@
+.carousel-item{
+	width: 100%;
+	height: 500px;
+}
+.lol{
+	position: absolute;
+	/* background: red; */
+	text-align: center;
+	width: 400px;
+	height: auto;
+	top: 25%;
+	left: 15%;
+}
+.form-control:hover{
+color: lightblue;
+background: gray;
+}
+.h3, h3:hover {
+    font-size: 1.75rem;
+    color: gray;
+}
+/* ============================================= */
+.box{
+	width: 100%;
+	height: 415px;
+	/* background: red; */
+}
+.header{
+	float: left;
+	width: 50%;
+	height: 200px;
+	/* background: blue; */
+}
+.header .logo{
+	float: left;
+	width: 50%;
+	height: 100%;
+	/* background: yellow; */
+}
+.header .logo img{
+	width: 100%;
+	height: 100%;
+}
+.header .navi{
+	width: 50%;
+	height: 100%;
+	float: left;
+	/* background: gray; */
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+/* ========== clearance ========== */
+.boxlon{
+	margin: 0 auto;
+	width: 100%;
+	height: 500px;
+	/* background: red;	 */
+}
+.boxlon .header{
+	width: 100%;
+	height: 100%;
+}
+.boxlon .logo{
+	float: left;
+	width: 30%;
+	height: 100%;
+	background: yellow;
+}
+.boxlon .navi{
+	float: left;
+	width: 70%;
+	height: 100%;
+	float: left;
+	background: gray;
+}
+.boxlon .navi .coc{
+	float: left;
+	width: 100%;
+	height: 50%;
+	background: pink;
+}
+.boxlon .navi .coc1{
+	float: left: ;
+	width: 50%;
+	background: blue;
+}
+
+a.carousel-control-next {
+    background: lightblue;
+    width: 30px;
+    height: 60px;
+    position: absolute;
+    top: 45%;
+}a.carousel-control-prev {
+    top: 45%;
+    height: 60px;
+    background: lightblue;
+    width: 30px;
+    position: absolute;
+}
